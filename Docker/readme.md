@@ -57,7 +57,7 @@ For more examples and ideas, visit:
  https://docs.docker.com/get-started/
 ```
 
-#### 個人メモ
+#### 参考までに
 
 - 英語だけど、この helloworld のメッセージを読む価値あり
 
@@ -88,3 +88,8 @@ GitHub に手順が書かれているため、導入してみてください
 #### お題：GUIでnginxコンテナーを起動する
 
 #### 合格基準：1-3と同じ
+
+#### 参考までに
+
+Portanterについては[この記事](https://qiita.com/ao_log/items/d8ef847c826746f9e84b) を参照してください。
+
